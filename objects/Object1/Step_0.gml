@@ -30,3 +30,4 @@ else
 {
 sprite_index = SprIdle;
 }
+depth = -y;

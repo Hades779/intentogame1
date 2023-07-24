@@ -19,8 +19,10 @@
   "ResourceOrderSettings": [
     {"name":"SprIdle","order":2,"path":"sprites/SprIdle/SprIdle.yy",},
     {"name":"Piso","order":1,"path":"objects/Piso/Piso.yy",},
+    {"name":"obj_hazard","order":3,"path":"objects/obj_hazard/obj_hazard.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"hazard","order":5,"path":"sprites/hazard/hazard.yy",},
     {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"Sprite4","order":2,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
